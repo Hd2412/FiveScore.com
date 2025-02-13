@@ -219,7 +219,8 @@
         </div>
 
         <div class="hero-content">
-            <h1 class="hero-title">FiveScore</h1>
+            <h1 class="hero-title" style="font-size: 120px;">FiveScore</h1>
+
             <p class="hero-subtitle">Your gateway to live scores, stats, and updates for Cricket, F1, Soccer, Basketball, and Chess</p>
             <button class="cta-button">Get Started</button>
         </div>
